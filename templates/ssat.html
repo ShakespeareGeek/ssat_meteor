@@ -1,0 +1,77 @@
+<head>
+  <title>ssat</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+</body>
+
+<template name="game">
+  <div class="container">
+    <div class="row">
+      <div class="main col-lg-8 col-md-6 col-sm-12 col-xs-12">
+        <div class="row">
+          <div class="header">
+            <div class="title">SSAT Vocabulary Practice</div>
+            {{#if showDescription}}
+            <div class="description">You've got 60 seconds. How many definitions can you get? </div>
+            {{/if}}
+          </div>
+        </div>
+      {{#if gameOver}}
+        {{>gameOverTemplate score=score counter=counter}}
+      {{else}}
+        {{#if newGame}}
+        {{>newGameTemplate}}
+        {{else}}
+          {{#if (template0Chosen) }}
+            {{>template0 question=question}}
+          {{else}}
+            {{#if (template1Chosen) }}
+              {{>template1 question=question}}
+            {{else}}
+              {{#if (template2Chosen) }}
+                {{>template2 question=question}}
+              {{else}}
+                {{>template3 question=question}}
+              {{/if}}
+            {{/if}}
+          {{/if}}
+        {{/if}}
+      {{/if}}
+    </div>
+    <div class="sidebar col-lg-4 col-md-6 col-sm-12 col-xs-12">
+      {{#if not guest}}
+        <div class="row">  {{>loginButtons}}</div>
+      {{/if}}
+
+      {{#if showTimer}}
+        <div class="row sidebar-module"><div class="timer">Time: {{time}}sec</div></div>
+      {{/if}}
+      <div class="row high-score">
+        <div class="sidebar-module-title">High Scores</div>
+        <ul>
+          {{#each hs in highScores}}
+            {{#if equals hs.name highScore.name}}
+            <li><b><em>{{hs.name}}</em></b> : {{hs.score}}</li>
+            {{else}}
+            <li><b>{{hs.name}}</b> : {{hs.score}}</li>
+            {{/if}}
+          {{/each}}
+        </ul>
+      </div>
+
+        {{#if guest}}
+        <div class="row">
+          Sign in to save your scores!
+        </div>
+        <div class="row">  {{>loginButtons}}</div>
+        {{/if}}
+      </div>
+
+    </div>
+  </div>
+<div class="footer">
+  {{>todo}}
+</div>
+</template>

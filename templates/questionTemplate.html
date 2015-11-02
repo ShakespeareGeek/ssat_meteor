@@ -1,0 +1,13 @@
+<template name="template2">
+  {{#with question}}
+  <div class="row game clue">
+    <div class="word">{{right.word}}</div>
+  </div>
+  <div class="row">
+    <div class="definition answer">{{right.definition}}</div>
+  </div>
+  <div class="row">
+    <div class="definition answer">{{wrong.definition}}</div>
+  </div>
+{{/with}}
+</template>

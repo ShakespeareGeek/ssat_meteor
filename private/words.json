@@ -1,0 +1,2156 @@
+[
+   {
+      "word":"abdicate",
+      "part-of-speech":"verb",
+      "definition":"give up, such as power, as of monarchs and emperors",
+      "related-words":""
+   },
+   {
+      "word":"abduct",
+      "part-of-speech":"verb",
+      "definition":"take away to an undisclosed location against their will",
+      "related-words":""
+   },
+   {
+      "word":"abhor",
+      "part-of-speech":"verb",
+      "definition":"find repugnant",
+      "related-words":""
+   },
+   {
+      "word":"absurd",
+      "part-of-speech":"",
+      "definition":"inconsistent with reason or logic or common sense",
+      "related-words":""
+   },
+   {
+      "word":"abyss",
+      "part-of-speech":"",
+      "definition":"a bottomless gulf or pit",
+      "related-words":""
+   },
+   {
+      "word":"accelerate",
+      "part-of-speech":"verb",
+      "definition":"move faster",
+      "related-words":""
+   },
+   {
+      "word":"acclaim",
+      "part-of-speech":"",
+      "definition":"enthusiastic approval",
+      "related-words":""
+   },
+   {
+      "word":"acute",
+      "part-of-speech":"",
+      "definition":"ending in a sharp point",
+      "related-words":""
+   },
+   {
+      "word":"adage",
+      "part-of-speech":"",
+      "definition":"a condensed but memorable saying embodying an important fact",
+      "related-words":""
+   },
+   {
+      "word":"adhere",
+      "part-of-speech":"verb",
+      "definition":"stick to firmly",
+      "related-words":""
+   },
+   {
+      "word":"adjourn",
+      "part-of-speech":"verb",
+      "definition":"close at the end of a session",
+      "related-words":""
+   },
+   {
+      "word":"adjunct",
+      "part-of-speech":"",
+      "definition":"something added to another thing but not essential to it",
+      "related-words":""
+   },
+   {
+      "word":"admonish",
+      "part-of-speech":"verb",
+      "definition":"take to task",
+      "related-words":""
+   },
+   {
+      "word":"adorn",
+      "part-of-speech":"verb",
+      "definition":"make more attractive, as by adding ornament or color",
+      "related-words":""
+   },
+   {
+      "word":"adversary",
+      "part-of-speech":"",
+      "definition":"someone who offers opposition",
+      "related-words":""
+   },
+   {
+      "word":"affable",
+      "part-of-speech":"",
+      "definition":"diffusing warmth and friendliness",
+      "related-words":""
+   },
+   {
+      "word":"affectation",
+      "part-of-speech":"",
+      "definition":"a deliberate pretense or exaggerated display",
+      "related-words":""
+   },
+   {
+      "word":"aghast",
+      "part-of-speech":"",
+      "definition":"struck with fear, dread, or consternation",
+      "related-words":""
+   },
+   {
+      "word":"agility",
+      "part-of-speech":"",
+      "definition":"the gracefulness of a quick and nimble person or animal",
+      "related-words":""
+   },
+   {
+      "word":"agitate",
+      "part-of-speech":"verb",
+      "definition":"move or cause to move back and forth",
+      "related-words":""
+   },
+   {
+      "word":"alleviate",
+      "part-of-speech":"verb",
+      "definition":"provide physical relief, as from pain",
+      "related-words":""
+   },
+   {
+      "word":"allure",
+      "part-of-speech":"",
+      "definition":"the power to entice or attract through personal charm",
+      "related-words":""
+   },
+   {
+      "word":"aloof",
+      "part-of-speech":"",
+      "definition":"remote in manner",
+      "related-words":""
+   },
+   {
+      "word":"altruistic",
+      "part-of-speech":"",
+      "definition":"showing unselfish concern for the welfare of others",
+      "related-words":""
+   },
+   {
+      "word":"amateur",
+      "part-of-speech":"",
+      "definition":"someone who pursues a study or sport as a pastime",
+      "related-words":""
+   },
+   {
+      "word":"amend",
+      "part-of-speech":"verb",
+      "definition":"make revisions to",
+      "related-words":""
+   },
+   {
+      "word":"amorous",
+      "part-of-speech":"",
+      "definition":"inclined toward or displaying love",
+      "related-words":""
+   },
+   {
+      "word":"amorphous",
+      "part-of-speech":"",
+      "definition":"having no definite form or distinct shape",
+      "related-words":""
+   },
+   {
+      "word":"amphibian",
+      "part-of-speech":"",
+      "definition":"cold-blooded vertebrate living on land but breeding in water",
+      "related-words":""
+   },
+   {
+      "word":"angular",
+      "part-of-speech":"",
+      "definition":"having the shape of intersecting lines or planes",
+      "related-words":""
+   },
+   {
+      "word":"animosity",
+      "part-of-speech":"",
+      "definition":"a feeling of ill will arousing active hostility",
+      "related-words":""
+   },
+   {
+      "word":"annihilate",
+      "part-of-speech":"verb",
+      "definition":"kill in large numbers",
+      "related-words":""
+   },
+   {
+      "word":"antidote",
+      "part-of-speech":"",
+      "definition":"a remedy that stops or controls the effects of a poison",
+      "related-words":""
+   },
+   {
+      "word":"aperture",
+      "part-of-speech":"",
+      "definition":"a natural opening in something",
+      "related-words":""
+   },
+   {
+      "word":"aqueous",
+      "part-of-speech":"",
+      "definition":"similar to or containing or dissolved in water",
+      "related-words":""
+   },
+   {
+      "word":"ardent",
+      "part-of-speech":"",
+      "definition":"characterized by intense emotion",
+      "related-words":""
+   },
+   {
+      "word":"arid",
+      "part-of-speech":"",
+      "definition":"lacking sufficient water or rainfall",
+      "related-words":""
+   },
+   {
+      "word":"aroma",
+      "part-of-speech":"",
+      "definition":"any property detected by the olfactory system",
+      "related-words":""
+   },
+   {
+      "word":"articulate",
+      "part-of-speech":"verb",
+      "definition":"express or state clearly",
+      "related-words":""
+   },
+   {
+      "word":"artifice",
+      "part-of-speech":"",
+      "definition":"a deceptive maneuver, especially to avoid capture",
+      "related-words":""
+   },
+   {
+      "word":"ascertain",
+      "part-of-speech":"verb",
+      "definition":"learn or discover with confidence",
+      "related-words":""
+   },
+   {
+      "word":"astound",
+      "part-of-speech":"verb",
+      "definition":"affect with wonder",
+      "related-words":""
+   },
+   {
+      "word":"astute",
+      "part-of-speech":"",
+      "definition":"marked by practical hardheaded intelligence",
+      "related-words":""
+   },
+   {
+      "word":"atrocity",
+      "part-of-speech":"",
+      "definition":"an act of shocking cruelty",
+      "related-words":""
+   },
+   {
+      "word":"audacity",
+      "part-of-speech":"",
+      "definition":"aggressive boldness or unmitigated effrontery",
+      "related-words":""
+   },
+   {
+      "word":"authoritative",
+      "part-of-speech":"",
+      "definition":"of recognized power or excellence",
+      "related-words":""
+   },
+   {
+      "word":"banal",
+      "part-of-speech":"",
+      "definition":"repeated too often; overfamiliar through overuse",
+      "related-words":""
+   },
+   {
+      "word":"banish",
+      "part-of-speech":"verb",
+      "definition":"expel, as if by official decree",
+      "related-words":""
+   },
+   {
+      "word":"barrier",
+      "part-of-speech":"",
+      "definition":"a structure or object that impedes free movement",
+      "related-words":""
+   },
+   {
+      "word":"beguile",
+      "part-of-speech":"",
+      "definition":"attract; cause to be enamored",
+      "related-words":""
+   },
+   {
+      "word":"belligerence",
+      "part-of-speech":"",
+      "definition":"hostile or warlike attitude or nature",
+      "related-words":""
+   },
+   {
+      "word":"benefactor",
+      "part-of-speech":"",
+      "definition":"a person who helps people or institutions",
+      "related-words":""
+   },
+   {
+      "word":"beneficial",
+      "part-of-speech":"",
+      "definition":"promoting or enhancing well-being",
+      "related-words":""
+   },
+   {
+      "word":"benevolence",
+      "part-of-speech":"",
+      "definition":"disposition to do good",
+      "related-words":""
+   },
+   {
+      "word":"bewildered",
+      "part-of-speech":"",
+      "definition":"perplexed by many conflicting situations or statements",
+      "related-words":""
+   },
+   {
+      "word":"bias",
+      "part-of-speech":"",
+      "definition":"a partiality preventing objective consideration of an issue",
+      "related-words":""
+   },
+   {
+      "word":"bile",
+      "part-of-speech":"",
+      "definition":"a digestive juice secreted by the liver",
+      "related-words":""
+   },
+   {
+      "word":"bliss",
+      "part-of-speech":"",
+      "definition":"a state of extreme happiness",
+      "related-words":""
+   },
+   {
+      "word":"boisterous",
+      "part-of-speech":"",
+      "definition":"full of rough and exuberant animal spirits",
+      "related-words":""
+   },
+   {
+      "word":"botanist",
+      "part-of-speech":"",
+      "definition":"a biologist specializing in the study of plants",
+      "related-words":""
+   },
+   {
+      "word":"bounty",
+      "part-of-speech":"",
+      "definition":"the property of copious abundance",
+      "related-words":""
+   },
+   {
+      "word":"bravado",
+      "part-of-speech":"",
+      "definition":"a swaggering show of courage",
+      "related-words":""
+   },
+   {
+      "word":"brevity",
+      "part-of-speech":"",
+      "definition":"the attribute of being brief or fleeting",
+      "related-words":""
+   },
+   {
+      "word":"burnish",
+      "part-of-speech":"",
+      "definition":"polish and make shiny",
+      "related-words":""
+   },
+   {
+      "word":"cache",
+      "part-of-speech":"",
+      "definition":"a hidden storage space",
+      "related-words":""
+   },
+   {
+      "word":"cajole",
+      "part-of-speech":"",
+      "definition":"influence or urge by gentle urging, caressing, or flattering",
+      "related-words":""
+   },
+   {
+      "word":"camouflage",
+      "part-of-speech":"",
+      "definition":"an outward semblance misrepresenting the nature of something",
+      "related-words":""
+   },
+   {
+      "word":"candor",
+      "part-of-speech":"",
+      "definition":"the quality of being honest and straightforward",
+      "related-words":""
+   },
+   {
+      "word":"canine",
+      "part-of-speech":"",
+      "definition":"a dog",
+      "related-words":""
+   },
+   {
+      "word":"cantankerous",
+      "part-of-speech":"",
+      "definition":"stubbornly obstructive and unwilling to cooperate",
+      "related-words":""
+   },
+   {
+      "word":"caprice",
+      "part-of-speech":"",
+      "definition":"a sudden desire",
+      "related-words":""
+   },
+   {
+      "word":"cascade",
+      "part-of-speech":"",
+      "definition":"a small waterfall or series of small waterfalls",
+      "related-words":""
+   },
+   {
+      "word":"catastrophe",
+      "part-of-speech":"",
+      "definition":"a sudden violent change in the earth's surface",
+      "related-words":""
+   },
+   {
+      "word":"celestial",
+      "part-of-speech":"",
+      "definition":"relating to or inhabiting a divine heaven",
+      "related-words":""
+   },
+   {
+      "word":"censor",
+      "part-of-speech":"",
+      "definition":"a person authorized to suppress unacceptable material",
+      "related-words":""
+   },
+   {
+      "word":"chasm",
+      "part-of-speech":"",
+      "definition":"a deep opening in the earth's surface",
+      "related-words":""
+   },
+   {
+      "word":"choleric",
+      "part-of-speech":"",
+      "definition":"characterized by anger",
+      "related-words":""
+   },
+   {
+      "word":"chronic",
+      "part-of-speech":"",
+      "definition":"long-lasting or characterized by long suffering",
+      "related-words":""
+   },
+   {
+      "word":"circumscribe",
+      "part-of-speech":"",
+      "definition":"to draw a geometric figure around another figure",
+      "related-words":""
+   },
+   {
+      "word":"collision",
+      "part-of-speech":"",
+      "definition":"an accident resulting from violent impact of a moving object",
+      "related-words":""
+   },
+   {
+      "word":"communicative",
+      "part-of-speech":"",
+      "definition":"able or tending to transmit a message",
+      "related-words":""
+   },
+   {
+      "word":"compassion",
+      "part-of-speech":"",
+      "definition":"a deep awareness of and sympathy for another's suffering",
+      "related-words":""
+   },
+   {
+      "word":"compel",
+      "part-of-speech":"",
+      "definition":"force somebody to do something",
+      "related-words":""
+   },
+   {
+      "word":"competent",
+      "part-of-speech":"",
+      "definition":"properly or sufficiently qualified or capable or efficient",
+      "related-words":""
+   },
+   {
+      "word":"concise",
+      "part-of-speech":"",
+      "definition":"expressing much in few words",
+      "related-words":""
+   },
+   {
+      "word":"condone",
+      "part-of-speech":"",
+      "definition":"excuse, overlook, or make allowances for",
+      "related-words":""
+   },
+   {
+      "word":"confidential",
+      "part-of-speech":"",
+      "definition":"given in secret",
+      "related-words":""
+   },
+   {
+      "word":"contemplation",
+      "part-of-speech":"",
+      "definition":"a calm, lengthy, intent consideration",
+      "related-words":""
+   },
+   {
+      "word":"contend",
+      "part-of-speech":"",
+      "definition":"compete for something",
+      "related-words":""
+   },
+   {
+      "word":"contentious",
+      "part-of-speech":"",
+      "definition":"showing an inclination to disagree",
+      "related-words":""
+   },
+   {
+      "word":"convene",
+      "part-of-speech":"",
+      "definition":"meet formally",
+      "related-words":""
+   },
+   {
+      "word":"conventional",
+      "part-of-speech":"",
+      "definition":"following accepted customs and proprieties",
+      "related-words":""
+   },
+   {
+      "word":"copious",
+      "part-of-speech":"",
+      "definition":"large in number or quantity",
+      "related-words":""
+   },
+   {
+      "word":"countenance",
+      "part-of-speech":"",
+      "definition":"the appearance conveyed by a person's face",
+      "related-words":""
+   },
+   {
+      "word":"couplet",
+      "part-of-speech":"",
+      "definition":"a stanza consisting of two successive lines of verse",
+      "related-words":""
+   },
+   {
+      "word":"courier",
+      "part-of-speech":"",
+      "definition":"a person who carries a message",
+      "related-words":""
+   },
+   {
+      "word":"cue",
+      "part-of-speech":"",
+      "definition":"a reminder for some action or speech",
+      "related-words":""
+   },
+   {
+      "word":"dawdle",
+      "part-of-speech":"",
+      "definition":"hang or fall in movement, progress, development, etc.",
+      "related-words":""
+   },
+   {
+      "word":"deadlock",
+      "part-of-speech":"",
+      "definition":"a situation in which no progress can be made",
+      "related-words":""
+   },
+   {
+      "word":"dearth",
+      "part-of-speech":"",
+      "definition":"an insufficient quantity or number",
+      "related-words":""
+   },
+   {
+      "word":"debris",
+      "part-of-speech":"",
+      "definition":"the remains of something that has been destroyed",
+      "related-words":""
+   },
+   {
+      "word":"decade",
+      "part-of-speech":"",
+      "definition":"a period of 10 years",
+      "related-words":""
+   },
+   {
+      "word":"deceive",
+      "part-of-speech":"",
+      "definition":"cause someone to believe an untruth",
+      "related-words":""
+   },
+   {
+      "word":"deficient",
+      "part-of-speech":"",
+      "definition":"inadequate in amount or degree",
+      "related-words":""
+   },
+   {
+      "word":"dehydrate",
+      "part-of-speech":"",
+      "definition":"remove water from",
+      "related-words":""
+   },
+   {
+      "word":"delude",
+      "part-of-speech":"",
+      "definition":"be dishonest with",
+      "related-words":""
+   },
+   {
+      "word":"deluge",
+      "part-of-speech":"",
+      "definition":"a heavy rain",
+      "related-words":""
+   },
+   {
+      "word":"deplore",
+      "part-of-speech":"",
+      "definition":"express strong disapproval of",
+      "related-words":""
+   },
+   {
+      "word":"desolation",
+      "part-of-speech":"",
+      "definition":"sadness resulting from being forsaken or abandoned",
+      "related-words":""
+   },
+   {
+      "word":"despicable",
+      "part-of-speech":"",
+      "definition":"morally reprehensible",
+      "related-words":""
+   },
+   {
+      "word":"despondent",
+      "part-of-speech":"",
+      "definition":"without or almost without hope",
+      "related-words":""
+   },
+   {
+      "word":"destitute",
+      "part-of-speech":"",
+      "definition":"poor enough to need help from others",
+      "related-words":""
+   },
+   {
+      "word":"devastate",
+      "part-of-speech":"",
+      "definition":"cause extensive destruction or ruin utterly",
+      "related-words":""
+   },
+   {
+      "word":"devotee",
+      "part-of-speech":"",
+      "definition":"an ardent follower and admirer",
+      "related-words":""
+   },
+   {
+      "word":"devour",
+      "part-of-speech":"",
+      "definition":"eat immoderately",
+      "related-words":""
+   },
+   {
+      "word":"dexterity",
+      "part-of-speech":"",
+      "definition":"adroitness in using the hands",
+      "related-words":""
+   },
+   {
+      "word":"diminish",
+      "part-of-speech":"",
+      "definition":"decrease in size, extent, or range",
+      "related-words":""
+   },
+   {
+      "word":"din",
+      "part-of-speech":"",
+      "definition":"a loud harsh or strident noise",
+      "related-words":""
+   },
+   {
+      "word":"dingy",
+      "part-of-speech":"",
+      "definition":"thickly covered with ingrained dirt or soot",
+      "related-words":""
+   },
+   {
+      "word":"diplomatic",
+      "part-of-speech":"",
+      "definition":"relating to negotiation between nations",
+      "related-words":""
+   },
+   {
+      "word":"disclaim",
+      "part-of-speech":"",
+      "definition":"make a disavowal about",
+      "related-words":""
+   },
+   {
+      "word":"discursive",
+      "part-of-speech":"",
+      "definition":"tending to cover a wide range of subjects",
+      "related-words":""
+   },
+   {
+      "word":"dismal",
+      "part-of-speech":"",
+      "definition":"causing dejection",
+      "related-words":""
+   },
+   {
+      "word":"dispute",
+      "part-of-speech":"",
+      "definition":"coming into conflict with",
+      "related-words":""
+   },
+   {
+      "word":"disseminate",
+      "part-of-speech":"",
+      "definition":"cause to become widely known",
+      "related-words":""
+   },
+   {
+      "word":"divert",
+      "part-of-speech":"",
+      "definition":"turn aside; turn away from",
+      "related-words":""
+   },
+   {
+      "word":"doff",
+      "part-of-speech":"",
+      "definition":"remove",
+      "related-words":""
+   },
+   {
+      "word":"dogged",
+      "part-of-speech":"",
+      "definition":"stubbornly unyielding",
+      "related-words":""
+   },
+   {
+      "word":"dogmatic",
+      "part-of-speech":"",
+      "definition":"pertaining to a code of beliefs accepted as authoritative",
+      "related-words":""
+   },
+   {
+      "word":"ebullient",
+      "part-of-speech":"",
+      "definition":"joyously unrestrained",
+      "related-words":""
+   },
+   {
+      "word":"eccentric",
+      "part-of-speech":"",
+      "definition":"conspicuously or grossly unconventional or unusual",
+      "related-words":""
+   },
+   {
+      "word":"ecstatic",
+      "part-of-speech":"",
+      "definition":"feeling great rapture or delight",
+      "related-words":""
+   },
+   {
+      "word":"eddy",
+      "part-of-speech":"",
+      "definition":"a miniature whirlpool or whirlwind",
+      "related-words":""
+   },
+   {
+      "word":"effect",
+      "part-of-speech":"",
+      "definition":"a phenomenon that is caused by some previous phenomenon",
+      "related-words":""
+   },
+   {
+      "word":"elusive",
+      "part-of-speech":"",
+      "definition":"skillful at evading capture",
+      "related-words":""
+   },
+   {
+      "word":"embellish",
+      "part-of-speech":"",
+      "definition":"make more attractive, as by adding ornament or color",
+      "related-words":""
+   },
+   {
+      "word":"eminent",
+      "part-of-speech":"",
+      "definition":"standing above others in quality or position",
+      "related-words":""
+   },
+   {
+      "word":"emulate",
+      "part-of-speech":"",
+      "definition":"strive to equal or match, especially by imitating",
+      "related-words":""
+   },
+   {
+      "word":"enact",
+      "part-of-speech":"",
+      "definition":"order by virtue of superior authority; decree",
+      "related-words":""
+   },
+   {
+      "word":"encompass",
+      "part-of-speech":"",
+      "definition":"include in scope",
+      "related-words":""
+   },
+   {
+      "word":"endorse",
+      "part-of-speech":"",
+      "definition":"approve of",
+      "related-words":""
+   },
+   {
+      "word":"enigma",
+      "part-of-speech":"",
+      "definition":"something that baffles understanding and cannot be explained",
+      "related-words":""
+   },
+   {
+      "word":"enigmatic",
+      "part-of-speech":"",
+      "definition":"not clear to the understanding",
+      "related-words":""
+   },
+   {
+      "word":"entice",
+      "part-of-speech":"",
+      "definition":"provoke someone to do something through persuasion",
+      "related-words":""
+   },
+   {
+      "word":"entourage",
+      "part-of-speech":"",
+      "definition":"the group following and attending to some important person",
+      "related-words":""
+   },
+   {
+      "word":"era",
+      "part-of-speech":"",
+      "definition":"a period marked by distinctive character",
+      "related-words":""
+   },
+   {
+      "word":"err",
+      "part-of-speech":"",
+      "definition":"to make a mistake",
+      "related-words":""
+   },
+   {
+      "word":"erudite",
+      "part-of-speech":"",
+      "definition":"having or showing profound knowledge",
+      "related-words":""
+   },
+   {
+      "word":"essential",
+      "part-of-speech":"",
+      "definition":"basic and fundamental",
+      "related-words":""
+   },
+   {
+      "word":"etiquette",
+      "part-of-speech":"",
+      "definition":"rules governing socially acceptable behavior",
+      "related-words":""
+   },
+   {
+      "word":"evacuate",
+      "part-of-speech":"",
+      "definition":"move out of an unsafe location into safety",
+      "related-words":""
+   },
+   {
+      "word":"exotic",
+      "part-of-speech":"",
+      "definition":"characteristic of another place or part of the world",
+      "related-words":""
+   },
+   {
+      "word":"expand",
+      "part-of-speech":"",
+      "definition":"extend in one or more directions",
+      "related-words":""
+   },
+   {
+      "word":"expunge",
+      "part-of-speech":"",
+      "definition":"remove by erasing or crossing out or as if by drawing a line",
+      "related-words":""
+   },
+   {
+      "word":"extraction",
+      "part-of-speech":"",
+      "definition":"taking out something",
+      "related-words":""
+   },
+   {
+      "word":"extricate",
+      "part-of-speech":"",
+      "definition":"release from entanglement of difficulty",
+      "related-words":""
+   },
+   {
+      "word":"extroverted",
+      "part-of-speech":"",
+      "definition":"at ease in talking to others",
+      "related-words":""
+   },
+   {
+      "word":"fanatic",
+      "part-of-speech":"",
+      "definition":"a person motivated by irrational enthusiasm",
+      "related-words":""
+   },
+   {
+      "word":"fatal",
+      "part-of-speech":"",
+      "definition":"bringing death",
+      "related-words":""
+   },
+   {
+      "word":"fatigue",
+      "part-of-speech":"",
+      "definition":"temporary loss of strength and energy from hard work",
+      "related-words":""
+   },
+   {
+      "word":"fauna",
+      "part-of-speech":"",
+      "definition":"all the animal life in a particular region or period",
+      "related-words":""
+   },
+   {
+      "word":"felicity",
+      "part-of-speech":"",
+      "definition":"pleasing and appropriate manner or style",
+      "related-words":""
+   },
+   {
+      "word":"ferocious",
+      "part-of-speech":"",
+      "definition":"marked by extreme and violent energy",
+      "related-words":""
+   },
+   {
+      "word":"fervent",
+      "part-of-speech":"",
+      "definition":"characterized by intense emotion",
+      "related-words":""
+   },
+   {
+      "word":"fickle",
+      "part-of-speech":"",
+      "definition":"liable to sudden unpredictable change",
+      "related-words":""
+   },
+   {
+      "word":"fidelity",
+      "part-of-speech":"",
+      "definition":"the quality of being faithful",
+      "related-words":""
+   },
+   {
+      "word":"finale",
+      "part-of-speech":"",
+      "definition":"the closing section of a musical composition",
+      "related-words":""
+   },
+   {
+      "word":"flagrant",
+      "part-of-speech":"",
+      "definition":"conspicuously and outrageously bad or reprehensible",
+      "related-words":""
+   },
+   {
+      "word":"garrulous",
+      "part-of-speech":"",
+      "definition":"full of trivial conversation",
+      "related-words":""
+   },
+   {
+      "word":"germinate",
+      "part-of-speech":"",
+      "definition":"produce bud or branches",
+      "related-words":""
+   },
+   {
+      "word":"glee",
+      "part-of-speech":"",
+      "definition":"great merriment",
+      "related-words":""
+   },
+   {
+      "word":"glib",
+      "part-of-speech":"",
+      "definition":"artfully persuasive in speech",
+      "related-words":""
+   },
+   {
+      "word":"gregarious",
+      "part-of-speech":"",
+      "definition":"temperamentally seeking and enjoying the company of others",
+      "related-words":""
+   },
+   {
+      "word":"grotesque",
+      "part-of-speech":"",
+      "definition":"distorted and unnatural in shape or size",
+      "related-words":""
+   },
+   {
+      "word":"grovel",
+      "part-of-speech":"",
+      "definition":"show submission or fear",
+      "related-words":""
+   },
+   {
+      "word":"gruesome",
+      "part-of-speech":"",
+      "definition":"shockingly repellent; inspiring horror",
+      "related-words":""
+   },
+   {
+      "word":"hallowed",
+      "part-of-speech":"",
+      "definition":"worthy of religious veneration",
+      "related-words":""
+   },
+   {
+      "word":"harbinger",
+      "part-of-speech":"",
+      "definition":"something indicating the approach of something or someone",
+      "related-words":""
+   },
+   {
+      "word":"harsh",
+      "part-of-speech":"",
+      "definition":"disagreeable to the senses",
+      "related-words":""
+   },
+   {
+      "word":"hasty",
+      "part-of-speech":"",
+      "definition":"excessively quick",
+      "related-words":""
+   },
+   {
+      "word":"herbivorous",
+      "part-of-speech":"",
+      "definition":"feeding only on plants",
+      "related-words":""
+   },
+   {
+      "word":"heterogeneous",
+      "part-of-speech":"",
+      "definition":"consisting of elements not of the same kind or nature",
+      "related-words":""
+   },
+   {
+      "word":"hexagon",
+      "part-of-speech":"",
+      "definition":"a six-sided polygon",
+      "related-words":""
+   },
+   {
+      "word":"hibernate",
+      "part-of-speech":"",
+      "definition":"be in an inactive or dormant state",
+      "related-words":""
+   },
+   {
+      "word":"hive",
+      "part-of-speech":"",
+      "definition":"a structure that provides a natural habitation for bees",
+      "related-words":""
+   },
+   {
+      "word":"hovel",
+      "part-of-speech":"",
+      "definition":"small crude shelter used as a dwelling",
+      "related-words":""
+   },
+   {
+      "word":"humid",
+      "part-of-speech":"",
+      "definition":"containing or characterized by a great deal of water vapor",
+      "related-words":""
+   },
+   {
+      "word":"ignite",
+      "part-of-speech":"",
+      "definition":"cause to start burning",
+      "related-words":""
+   },
+   {
+      "word":"illiteracy",
+      "part-of-speech":"",
+      "definition":"an inability to read",
+      "related-words":""
+   },
+   {
+      "word":"immaculate",
+      "part-of-speech":"",
+      "definition":"completely neat and clean",
+      "related-words":""
+   },
+   {
+      "word":"imminent",
+      "part-of-speech":"",
+      "definition":"close in time; about to occur",
+      "related-words":""
+   },
+   {
+      "word":"immortal",
+      "part-of-speech":"",
+      "definition":"not subject to death",
+      "related-words":""
+   },
+   {
+      "word":"impasse",
+      "part-of-speech":"",
+      "definition":"a situation in which no progress can be made",
+      "related-words":""
+   },
+   {
+      "word":"impervious",
+      "part-of-speech":"",
+      "definition":"not admitting of passage or capable of being affected",
+      "related-words":""
+   },
+   {
+      "word":"impious",
+      "part-of-speech":"",
+      "definition":"lacking piety or reverence for a god",
+      "related-words":""
+   },
+   {
+      "word":"imply",
+      "part-of-speech":"",
+      "definition":"express or state indirectly",
+      "related-words":""
+   },
+   {
+      "word":"inadvertent",
+      "part-of-speech":"",
+      "definition":"happening by chance or unexpectedly or unintentionally",
+      "related-words":""
+   },
+   {
+      "word":"incentive",
+      "part-of-speech":"",
+      "definition":"a positive motivational influence",
+      "related-words":""
+   },
+   {
+      "word":"incredulous",
+      "part-of-speech":"",
+      "definition":"not disposed or willing to believe; unbelieving",
+      "related-words":""
+   },
+   {
+      "word":"indicate",
+      "part-of-speech":"",
+      "definition":"designate a place, direction, person, or thing",
+      "related-words":""
+   },
+   {
+      "word":"inert",
+      "part-of-speech":"",
+      "definition":"unable to move or resist motion",
+      "related-words":""
+   },
+   {
+      "word":"infectious",
+      "part-of-speech":"",
+      "definition":"relating to the invasion of germs that cause disease",
+      "related-words":""
+   },
+   {
+      "word":"ingenious",
+      "part-of-speech":"",
+      "definition":"showing inventiveness and skill",
+      "related-words":""
+   },
+   {
+      "word":"ingenuity",
+      "part-of-speech":"",
+      "definition":"the power of creative imagination",
+      "related-words":""
+   },
+   {
+      "word":"inhabit",
+      "part-of-speech":"",
+      "definition":"live in; be a resident of",
+      "related-words":""
+   },
+   {
+      "word":"innate",
+      "part-of-speech":"",
+      "definition":"present at birth but not necessarily hereditary",
+      "related-words":""
+   },
+   {
+      "word":"innocent",
+      "part-of-speech":"",
+      "definition":"free from sin",
+      "related-words":""
+   },
+   {
+      "word":"insinuation",
+      "part-of-speech":"",
+      "definition":"an indirect (and usually malicious) implication",
+      "related-words":""
+   },
+   {
+      "word":"insomnia",
+      "part-of-speech":"",
+      "definition":"an inability to sleep",
+      "related-words":""
+   },
+   {
+      "word":"insurgent",
+      "part-of-speech":"",
+      "definition":"in opposition to a civil authority or government",
+      "related-words":""
+   },
+   {
+      "word":"irate",
+      "part-of-speech":"",
+      "definition":"feeling or showing extreme anger",
+      "related-words":""
+   },
+   {
+      "word":"jeer",
+      "part-of-speech":"",
+      "definition":"laugh at with contempt and derision",
+      "related-words":""
+   },
+   {
+      "word":"jubilant",
+      "part-of-speech":"",
+      "definition":"full of high-spirited delight",
+      "related-words":""
+   },
+   {
+      "word":"judicious",
+      "part-of-speech":"",
+      "definition":"marked by the exercise of good judgment in practical matters",
+      "related-words":""
+   },
+   {
+      "word":"kinetic",
+      "part-of-speech":"",
+      "definition":"relating to the motion of material bodies and their forces",
+      "related-words":""
+   },
+   {
+      "word":"lagoon",
+      "part-of-speech":"",
+      "definition":"a body of water cut off from a larger body by a reef",
+      "related-words":""
+   },
+   {
+      "word":"lenient",
+      "part-of-speech":"",
+      "definition":"tolerant",
+      "related-words":""
+   },
+   {
+      "word":"lethargy",
+      "part-of-speech":"",
+      "definition":"inactivity; showing an unusual lack of energy",
+      "related-words":""
+   },
+   {
+      "word":"limber",
+      "part-of-speech":"",
+      "definition":"easily bent",
+      "related-words":""
+   },
+   {
+      "word":"lunge",
+      "part-of-speech":"",
+      "definition":"the act of moving forward suddenly",
+      "related-words":""
+   },
+   {
+      "word":"magnanimous",
+      "part-of-speech":"",
+      "definition":"noble and generous in spirit",
+      "related-words":""
+   },
+   {
+      "word":"malfunction",
+      "part-of-speech":"",
+      "definition":"fail to work properly",
+      "related-words":""
+   },
+   {
+      "word":"malleable",
+      "part-of-speech":"",
+      "definition":"capable of being shaped or bent",
+      "related-words":""
+   },
+   {
+      "word":"mar",
+      "part-of-speech":"",
+      "definition":"render imperfect",
+      "related-words":""
+   },
+   {
+      "word":"marvel",
+      "part-of-speech":"",
+      "definition":"be amazed at",
+      "related-words":""
+   },
+   {
+      "word":"meager",
+      "part-of-speech":"",
+      "definition":"deficient in amount or quality or extent",
+      "related-words":""
+   },
+   {
+      "word":"meek",
+      "part-of-speech":"",
+      "definition":"humble in spirit or manner",
+      "related-words":""
+   },
+   {
+      "word":"melancholy",
+      "part-of-speech":"",
+      "definition":"a constitutional tendency to be gloomy and depressed",
+      "related-words":""
+   },
+   {
+      "word":"mimic",
+      "part-of-speech":"",
+      "definition":"imitate, especially for satirical effect",
+      "related-words":""
+   },
+   {
+      "word":"minuscule",
+      "part-of-speech":"",
+      "definition":"very small",
+      "related-words":""
+   },
+   {
+      "word":"mourn",
+      "part-of-speech":"",
+      "definition":"feel sadness",
+      "related-words":""
+   },
+   {
+      "word":"murky",
+      "part-of-speech":"",
+      "definition":"clouded as with sediment",
+      "related-words":""
+   },
+   {
+      "word":"nauseous",
+      "part-of-speech":"",
+      "definition":"causing a sick feeling",
+      "related-words":""
+   },
+   {
+      "word":"nebulous",
+      "part-of-speech":"",
+      "definition":"lacking definite form or limits",
+      "related-words":""
+   },
+   {
+      "word":"nimble",
+      "part-of-speech":"",
+      "definition":"moving quickly and lightly",
+      "related-words":""
+   },
+   {
+      "word":"nomad",
+      "part-of-speech":"",
+      "definition":"a member of a people who have no permanent home",
+      "related-words":""
+   },
+   {
+      "word":"obese",
+      "part-of-speech":"",
+      "definition":"excessively fat",
+      "related-words":""
+   },
+   {
+      "word":"obnoxious",
+      "part-of-speech":"",
+      "definition":"causing disapproval or protest",
+      "related-words":""
+   },
+   {
+      "word":"obscure",
+      "part-of-speech":"",
+      "definition":"not clearly understood or expressed",
+      "related-words":""
+   },
+   {
+      "word":"observation",
+      "part-of-speech":"",
+      "definition":"the act of taking a patient look",
+      "related-words":""
+   },
+   {
+      "word":"obsolete",
+      "part-of-speech":"",
+      "definition":"no longer in use",
+      "related-words":""
+   },
+   {
+      "word":"obstinate",
+      "part-of-speech":"",
+      "definition":"marked by tenacious unwillingness to yield",
+      "related-words":""
+   },
+   {
+      "word":"obstruct",
+      "part-of-speech":"",
+      "definition":"block passage through",
+      "related-words":""
+   },
+   {
+      "word":"obtuse",
+      "part-of-speech":"",
+      "definition":"of an angle, between 90 and 180 degrees",
+      "related-words":""
+   },
+   {
+      "word":"olfactory",
+      "part-of-speech":"",
+      "definition":"of or relating to the sense of smell",
+      "related-words":""
+   },
+   {
+      "word":"ominous",
+      "part-of-speech":"",
+      "definition":"threatening or foreshadowing evil or tragic developments",
+      "related-words":""
+   },
+   {
+      "word":"opportune",
+      "part-of-speech":"",
+      "definition":"suitable or advantageous especially for a particular purpose",
+      "related-words":""
+   },
+   {
+      "word":"option",
+      "part-of-speech":"",
+      "definition":"one of a number of things from which only one can be chosen",
+      "related-words":""
+   },
+   {
+      "word":"orbit",
+      "part-of-speech":"",
+      "definition":"the path of a celestial body in its revolution about another",
+      "related-words":""
+   },
+   {
+      "word":"ostentatious",
+      "part-of-speech":"",
+      "definition":"intended to attract notice and impress others",
+      "related-words":""
+   },
+   {
+      "word":"palatable",
+      "part-of-speech":"",
+      "definition":"acceptable to the taste or mind",
+      "related-words":""
+   },
+   {
+      "word":"paradox",
+      "part-of-speech":"",
+      "definition":"a statement that contradicts itself",
+      "related-words":""
+   },
+   {
+      "word":"passive",
+      "part-of-speech":"",
+      "definition":"lacking in energy or will",
+      "related-words":""
+   },
+   {
+      "word":"peddle",
+      "part-of-speech":"",
+      "definition":"sell or offer for sale from place to place",
+      "related-words":""
+   },
+   {
+      "word":"pedestrian",
+      "part-of-speech":"",
+      "definition":"a person who travels by foot",
+      "related-words":""
+   },
+   {
+      "word":"perjury",
+      "part-of-speech":"",
+      "definition":"criminal offense of making false statements under oath",
+      "related-words":""
+   },
+   {
+      "word":"persevere",
+      "part-of-speech":"",
+      "definition":"be persistent, refuse to stop",
+      "related-words":""
+   },
+   {
+      "word":"petrify",
+      "part-of-speech":"",
+      "definition":"change into stone",
+      "related-words":""
+   },
+   {
+      "word":"pious",
+      "part-of-speech":"",
+      "definition":"having or showing or expressing reverence for a deity",
+      "related-words":""
+   },
+   {
+      "word":"plagiarism",
+      "part-of-speech":"",
+      "definition":"taking someone's words or ideas as if they were your own",
+      "related-words":""
+   },
+   {
+      "word":"plausible",
+      "part-of-speech":"",
+      "definition":"apparently reasonable and valid, and truthful",
+      "related-words":""
+   },
+   {
+      "word":"pompous",
+      "part-of-speech":"",
+      "definition":"puffed up with vanity",
+      "related-words":""
+   },
+   {
+      "word":"procrastinate",
+      "part-of-speech":"",
+      "definition":"postpone doing what one should be doing",
+      "related-words":""
+   },
+   {
+      "word":"profound",
+      "part-of-speech":"",
+      "definition":"situated at or extending to great depth",
+      "related-words":""
+   },
+   {
+      "word":"prolific",
+      "part-of-speech":"",
+      "definition":"intellectually productive",
+      "related-words":""
+   },
+   {
+      "word":"propel",
+      "part-of-speech":"",
+      "definition":"cause to move forward with force",
+      "related-words":""
+   },
+   {
+      "word":"prophesy",
+      "part-of-speech":"",
+      "definition":"predict or reveal, as if through divine inspiration",
+      "related-words":""
+   },
+   {
+      "word":"pungent",
+      "part-of-speech":"",
+      "definition":"strong and sharp",
+      "related-words":""
+   },
+   {
+      "word":"pursue",
+      "part-of-speech":"",
+      "definition":"follow in an effort to capture",
+      "related-words":""
+   },
+   {
+      "word":"quell",
+      "part-of-speech":"",
+      "definition":"suppress or crush completely",
+      "related-words":""
+   },
+   {
+      "word":"quench",
+      "part-of-speech":"",
+      "definition":"satisfy, as thirst",
+      "related-words":""
+   },
+   {
+      "word":"rabid",
+      "part-of-speech":"",
+      "definition":"marked by excessive enthusiasm for a cause or idea",
+      "related-words":""
+   },
+   {
+      "word":"rancor",
+      "part-of-speech":"",
+      "definition":"a feeling of deep and bitter anger and ill-will",
+      "related-words":""
+   },
+   {
+      "word":"random",
+      "part-of-speech":"",
+      "definition":"lacking any definite plan or order or purpose",
+      "related-words":""
+   },
+   {
+      "word":"ransack",
+      "part-of-speech":"",
+      "definition":"search thoroughly",
+      "related-words":""
+   },
+   {
+      "word":"ratify",
+      "part-of-speech":"",
+      "definition":"approve and express assent, responsibility, or obligation",
+      "related-words":""
+   },
+   {
+      "word":"ravenous",
+      "part-of-speech":"",
+      "definition":"extremely hungry",
+      "related-words":""
+   },
+   {
+      "word":"raze",
+      "part-of-speech":"",
+      "definition":"tear down so as to make flat with the ground",
+      "related-words":""
+   },
+   {
+      "word":"recluse",
+      "part-of-speech":"",
+      "definition":"one who lives in solitude",
+      "related-words":""
+   },
+   {
+      "word":"recur",
+      "part-of-speech":"",
+      "definition":"happen or occur again",
+      "related-words":""
+   },
+   {
+      "word":"refrain",
+      "part-of-speech":"",
+      "definition":"resist doing something",
+      "related-words":""
+   },
+   {
+      "word":"regal",
+      "part-of-speech":"",
+      "definition":"belonging to or befitting a supreme ruler",
+      "related-words":""
+   },
+   {
+      "word":"reign",
+      "part-of-speech":"",
+      "definition":"royal authority; the dominion of a monarch",
+      "related-words":""
+   },
+   {
+      "word":"reimburse",
+      "part-of-speech":"",
+      "definition":"pay back for some expense incurred",
+      "related-words":""
+   },
+   {
+      "word":"reinforce",
+      "part-of-speech":"",
+      "definition":"strengthen and support with rewards",
+      "related-words":""
+   },
+   {
+      "word":"reminiscence",
+      "part-of-speech":"",
+      "definition":"a mental impression retained and recalled from the past",
+      "related-words":""
+   },
+   {
+      "word":"renowned",
+      "part-of-speech":"",
+      "definition":"widely known and esteemed",
+      "related-words":""
+   },
+   {
+      "word":"repartee",
+      "part-of-speech":"",
+      "definition":"adroitness and cleverness in reply",
+      "related-words":""
+   },
+   {
+      "word":"repudiate",
+      "part-of-speech":"",
+      "definition":"refuse to acknowledge, ratify, or recognize as valid",
+      "related-words":""
+   },
+   {
+      "word":"repugnant",
+      "part-of-speech":"",
+      "definition":"offensive to the mind",
+      "related-words":""
+   },
+   {
+      "word":"residue",
+      "part-of-speech":"",
+      "definition":"matter that remains after something has been removed",
+      "related-words":""
+   },
+   {
+      "word":"reveal",
+      "part-of-speech":"",
+      "definition":"make visible",
+      "related-words":""
+   },
+   {
+      "word":"revel",
+      "part-of-speech":"",
+      "definition":"take delight in",
+      "related-words":""
+   },
+   {
+      "word":"rout",
+      "part-of-speech":"",
+      "definition":"an overwhelming defeat",
+      "related-words":""
+   },
+   {
+      "word":"satellite",
+      "part-of-speech":"",
+      "definition":"any celestial body orbiting around a planet or star",
+      "related-words":""
+   },
+   {
+      "word":"saturate",
+      "part-of-speech":"",
+      "definition":"infuse or fill completely",
+      "related-words":""
+   },
+   {
+      "word":"saucy",
+      "part-of-speech":"",
+      "definition":"improperly forward or bold",
+      "related-words":""
+   },
+   {
+      "word":"scald",
+      "part-of-speech":"",
+      "definition":"burn with a hot liquid or steam",
+      "related-words":""
+   },
+   {
+      "word":"scarce",
+      "part-of-speech":"",
+      "definition":"deficient in quantity or number compared with the demand",
+      "related-words":""
+   },
+   {
+      "word":"scathing",
+      "part-of-speech":"",
+      "definition":"marked by harshly abusive criticism",
+      "related-words":""
+   },
+   {
+      "word":"schism",
+      "part-of-speech":"",
+      "definition":"division of a group into opposing factions",
+      "related-words":""
+   },
+   {
+      "word":"scrupulous",
+      "part-of-speech":"",
+      "definition":"characterized by extreme care and great effort",
+      "related-words":""
+   },
+   {
+      "word":"secure",
+      "part-of-speech":"",
+      "definition":"free from danger or risk",
+      "related-words":""
+   },
+   {
+      "word":"seethe",
+      "part-of-speech":"",
+      "definition":"foam as if boiling",
+      "related-words":""
+   },
+   {
+      "word":"sentry",
+      "part-of-speech":"",
+      "definition":"a person employed to keep watch for some anticipated event",
+      "related-words":""
+   },
+   {
+      "word":"sequel",
+      "part-of-speech":"",
+      "definition":"something that follows something else",
+      "related-words":""
+   },
+   {
+      "word":"shrewd",
+      "part-of-speech":"",
+      "definition":"marked by practical hardheaded intelligence",
+      "related-words":""
+   },
+   {
+      "word":"sinister",
+      "part-of-speech":"",
+      "definition":"stemming from evil characteristics or forces",
+      "related-words":""
+   },
+   {
+      "word":"slack",
+      "part-of-speech":"",
+      "definition":"not tense or taut",
+      "related-words":""
+   },
+   {
+      "word":"solicit",
+      "part-of-speech":"",
+      "definition":"request urgently or persistently",
+      "related-words":""
+   },
+   {
+      "word":"splice",
+      "part-of-speech":"",
+      "definition":"join the ends of",
+      "related-words":""
+   },
+   {
+      "word":"spurn",
+      "part-of-speech":"",
+      "definition":"reject with contempt",
+      "related-words":""
+   },
+   {
+      "word":"squalid",
+      "part-of-speech":"",
+      "definition":"foul and run-down and repulsive",
+      "related-words":""
+   },
+   {
+      "word":"squander",
+      "part-of-speech":"",
+      "definition":"spend thoughtlessly; throw away",
+      "related-words":""
+   },
+   {
+      "word":"staunch",
+      "part-of-speech":"",
+      "definition":"firm and dependable especially in loyalty",
+      "related-words":""
+   },
+   {
+      "word":"stealthy",
+      "part-of-speech":"",
+      "definition":"marked by quiet and caution and secrecy",
+      "related-words":""
+   },
+   {
+      "word":"subdue",
+      "part-of-speech":"",
+      "definition":"put down by force or intimidation",
+      "related-words":""
+   },
+   {
+      "word":"succeed",
+      "part-of-speech":"",
+      "definition":"attain success or reach a desired goal",
+      "related-words":""
+   },
+   {
+      "word":"succumb",
+      "part-of-speech":"",
+      "definition":"consent reluctantly",
+      "related-words":""
+   },
+   {
+      "word":"suffice",
+      "part-of-speech":"",
+      "definition":"be adequate, either in quality or quantity",
+      "related-words":""
+   },
+   {
+      "word":"summit",
+      "part-of-speech":"",
+      "definition":"the top or extreme point of something",
+      "related-words":""
+   },
+   {
+      "word":"superb",
+      "part-of-speech":"",
+      "definition":"surpassingly good",
+      "related-words":""
+   },
+   {
+      "word":"suppress",
+      "part-of-speech":"",
+      "definition":"to put down by force or authority",
+      "related-words":""
+   },
+   {
+      "word":"surmise",
+      "part-of-speech":"",
+      "definition":"infer from incomplete evidence",
+      "related-words":""
+   },
+   {
+      "word":"surrogate",
+      "part-of-speech":"",
+      "definition":"someone who takes the place of another person",
+      "related-words":""
+   },
+   {
+      "word":"susceptible",
+      "part-of-speech":"",
+      "definition":"yielding readily to or capable of",
+      "related-words":""
+   },
+   {
+      "word":"synopsis",
+      "part-of-speech":"",
+      "definition":"a sketchy summary of the main points of an argument",
+      "related-words":""
+   },
+   {
+      "word":"taciturn",
+      "part-of-speech":"",
+      "definition":"habitually reserved and uncommunicative",
+      "related-words":""
+   },
+   {
+      "word":"tactful",
+      "part-of-speech":"",
+      "definition":"having a sense of what is considerate in dealing with others",
+      "related-words":""
+   },
+   {
+      "word":"tamper",
+      "part-of-speech":"",
+      "definition":"alter or falsify, usually secretively or dishonestly",
+      "related-words":""
+   },
+   {
+      "word":"tangible",
+      "part-of-speech":"",
+      "definition":"perceptible by the senses especially the sense of touch",
+      "related-words":""
+   },
+   {
+      "word":"taut",
+      "part-of-speech":"",
+      "definition":"pulled or drawn tight",
+      "related-words":""
+   },
+   {
+      "word":"temperate",
+      "part-of-speech":"",
+      "definition":"not extreme",
+      "related-words":""
+   },
+   {
+      "word":"tenacious",
+      "part-of-speech":"",
+      "definition":"stubbornly unyielding",
+      "related-words":""
+   },
+   {
+      "word":"tepid",
+      "part-of-speech":"",
+      "definition":"moderately warm",
+      "related-words":""
+   },
+   {
+      "word":"terminate",
+      "part-of-speech":"",
+      "definition":"bring to an end or halt",
+      "related-words":""
+   },
+   {
+      "word":"terse",
+      "part-of-speech":"",
+      "definition":"brief and to the point",
+      "related-words":""
+   },
+   {
+      "word":"tether",
+      "part-of-speech":"",
+      "definition":"restraint consisting of a rope used to restrain an animal",
+      "related-words":""
+   },
+   {
+      "word":"torrid",
+      "part-of-speech":"",
+      "definition":"characterized by intense emotion",
+      "related-words":""
+   },
+   {
+      "word":"trepidation",
+      "part-of-speech":"",
+      "definition":"a feeling of alarm or dread",
+      "related-words":""
+   },
+   {
+      "word":"trite",
+      "part-of-speech":"",
+      "definition":"repeated too often; overfamiliar through overuse",
+      "related-words":""
+   },
+   {
+      "word":"tumult",
+      "part-of-speech":"",
+      "definition":"a state of commotion and noise and confusion",
+      "related-words":""
+   },
+   {
+      "word":"tyranny",
+      "part-of-speech":"",
+      "definition":"government in which the ruler is an absolute dictator",
+      "related-words":""
+   },
+   {
+      "word":"ultimate",
+      "part-of-speech":"",
+      "definition":"furthest or highest in degree or order; utmost or extreme",
+      "related-words":""
+   },
+   {
+      "word":"unanimous",
+      "part-of-speech":"",
+      "definition":"in complete agreement",
+      "related-words":""
+   },
+   {
+      "word":"unkempt",
+      "part-of-speech":"",
+      "definition":"not properly maintained or cared for",
+      "related-words":""
+   },
+   {
+      "word":"usurp",
+      "part-of-speech":"",
+      "definition":"seize and take control without authority",
+      "related-words":""
+   },
+   {
+      "word":"vacate",
+      "part-of-speech":"",
+      "definition":"leave behind empty; move out of",
+      "related-words":""
+   },
+   {
+      "word":"vacuous",
+      "part-of-speech":"",
+      "definition":"devoid of matter",
+      "related-words":""
+   },
+   {
+      "word":"vague",
+      "part-of-speech":"",
+      "definition":"lacking clarity or distinctness",
+      "related-words":""
+   },
+   {
+      "word":"vehement",
+      "part-of-speech":"",
+      "definition":"marked by extreme intensity of emotions or convictions",
+      "related-words":""
+   },
+   {
+      "word":"vend",
+      "part-of-speech":"",
+      "definition":"sell or offer for sale from place to place",
+      "related-words":""
+   },
+   {
+      "word":"vex",
+      "part-of-speech":"",
+      "definition":"disturb, especially by minor irritations",
+      "related-words":""
+   },
+   {
+      "word":"vitalize",
+      "part-of-speech":"",
+      "definition":"make more lively or vigorous",
+      "related-words":""
+   },
+   {
+      "word":"vivacious",
+      "part-of-speech":"",
+      "definition":"vigorous and animated",
+      "related-words":""
+   },
+   {
+      "word":"wrath",
+      "part-of-speech":"",
+      "definition":"intense anger, usually on an epic scale",
+      "related-words":""
+   },
+   {
+      "word":"wretched",
+      "part-of-speech":"",
+      "definition":"deserving or inciting pity",
+      "related-words":""
+   },
+   {
+      "word":"writhe",
+      "part-of-speech":"",
+      "definition":"to move in a twisting or contorted motion",
+      "related-words":""
+   },
+   {
+      "word":"zealous",
+      "part-of-speech":"",
+      "definition":"marked by active interest and enthusiasm",
+      "related-words":""
+   }
+]
